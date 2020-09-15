@@ -8,10 +8,10 @@
 
     <TextView
         android:id="@+id/textViewResults"
-        android:layout_width="294dp"
-        android:layout_height="605dp"
+        android:layout_width="300dp"
+        android:layout_height="680dp"
         android:layout_marginStart="56dp"
-        android:layout_marginTop="64dp"
+        android:layout_marginTop="16dp"
         android:text="Calculating result"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
